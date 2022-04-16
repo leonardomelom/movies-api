@@ -6,7 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
-./src/keys/key.js 
+
+#key files
+key.js
 # Executables
 *.swf
 *.air
